@@ -1,0 +1,592 @@
+@media (min-width: 200px) and (max-width : 300px) {
+     
+   body{
+    overflow-x: hidden;
+   }
+      /* nav setting */
+      .nav{
+        overflow-x: hidden;
+      }
+    .buttonsNav{
+        display: none;
+    }
+    .navitems{
+        display: none;
+    }
+    
+    /* intro setting */
+       .lines{
+        font-size: 41px;
+        padding-left: 21px;
+       }
+       #intro-btn{
+        margin-left: 10px;
+
+       }
+       
+       .both{
+        flex-direction: column;
+       }
+       .right {
+        width: 100%;
+        height: 624px;
+    }
+    .right>img {
+        top: 29px;
+        margin-left: 0px;
+        width: 367px;
+
+    
+    }
+    .left {
+        width: 100%; 
+        padding: 24px;
+    }
+    .cards {
+       
+        flex-direction: column;
+    }
+    .card1{
+        margin: 43px;
+
+    }
+    .third{
+            height: 4519px;
+
+        top: 1954px;
+
+
+    }
+       .forth{
+        flex-direction: column;
+        height: 980px;
+        margin-top: 0px;
+
+       }
+       .fifth{
+        flex-direction: column;
+       }
+       form{
+        margin: 10px;
+        width: 366px;
+        box-shadow: none;
+       }
+       #formbuttons{
+        box-shadow: none;
+       }
+       .fright img{
+        margin-left: -42px;
+       }
+       .fright{
+        width: 100%;
+       }
+       .one{
+        display: none;
+       }
+       .two{
+        padding: 0px;
+        width: 100%;
+       }
+       footer{
+        flex-direction: column;
+        height: 531px;
+
+       }
+       .two span{
+        font-size: 57px;
+    font-family: 'Satisfy', cursive;
+    padding: 30px;
+
+       }
+       .icons{
+        margin-top: 16px;
+        font-size: 30px;
+        width: 265px;
+        padding: 39px;
+        height: 126px;
+        margin-left: 55px;
+       }
+       .skill{
+        height: 289px;
+        width: 191px;
+
+       }
+       .fleft{
+        width: 100%;
+        height: 611px;
+       }
+       form{
+        height: 512px;
+       }
+  }
+  /* ////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media (min-width: 300px) and (max-width : 400px) {
+     
+    body{
+        overflow-x: hidden;
+       }
+      /* nav setting */
+    .buttonsNav{
+        display: none;
+    }
+    .navitems{
+        display: none;
+    }
+    
+    /* intro setting */
+       .lines{
+        font-size: 41px;
+        padding-left: 21px;
+       }
+       #intro-btn{
+        margin-left: 10px;
+
+       }
+       
+       .both{
+        flex-direction: column;
+       }
+       .right {
+        width: 100%;
+        height: 624px;
+    }
+    .right>img {
+        top: 29px;
+        margin-left: 0px;
+        width: 367px;
+
+    
+    }
+    .left {
+        width: 100%; 
+        padding: 24px;
+    }
+    .cards {
+       
+        flex-direction: column;
+    }
+    .card1{
+        margin: 43px;
+
+    }
+    .third{
+            height: 4519px;
+
+        top: 1954px;
+
+
+    }
+       .forth{
+        flex-direction: column;
+        height: 980px;
+        margin-top: 0px;
+
+       }
+       .fifth{
+        flex-direction: column;
+       }
+       form{
+        margin: 10px;
+        width: 366px;
+        box-shadow: none;
+       }
+       #formbuttons{
+        box-shadow: none;
+       }
+       .fright img{
+        margin-left: -42px;
+       }
+       .fright{
+        width: 100%;
+       }
+       .one{
+        display: none;
+       }
+       .two{
+        padding: 0px;
+        width: 100%;
+       }
+       footer{
+        flex-direction: column;
+        height: 531px;
+
+       }
+       .two span{
+        font-size: 57px;
+    font-family: 'Satisfy', cursive;
+    padding: 30px;
+
+       }
+       .icons{
+        margin-top: 16px;
+        font-size: 30px;
+        width: 265px;
+        padding: 39px;
+        height: 126px;
+        margin-left: 55px;
+       }
+       .skill{
+        height: 289px;
+        width: 191px;
+
+       }
+       .fleft{
+        width: 100%;
+        height: 611px;
+       }
+       form{
+        height: 512px;
+       }
+  }
+  /* /////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media (min-width: 400px) and (max-width : 500px) {
+     
+    body{
+        overflow-x: hidden;
+       }
+      /* nav setting */
+    .buttonsNav{
+        display: none;
+    }
+    .navitems{
+        display: none;
+    }
+    
+    /* intro setting */
+       .lines{
+        font-size: 41px;
+        padding-left: 21px;
+       }
+       #intro-btn{
+        margin-left: 10px;
+
+       }
+       
+       .both{
+        flex-direction: column;
+       }
+       .right {
+        width: 100%;
+        height: 624px;
+    }
+    .right>img {
+        top: 29px;
+        margin-left: 0px;
+        width: 367px;
+
+    
+    }
+    .left {
+        width: 100%; 
+        padding: 24px;
+    }
+    .cards {
+       
+        flex-direction: column;
+    }
+    .card1{
+        margin: 43px;
+
+    }
+    .third{
+            height: 4519px;
+
+        top: 1954px;
+
+
+    }
+       .forth{
+        flex-direction: column;
+        height: 980px;
+        margin-top: 0px;
+
+       }
+       .fifth{
+        flex-direction: column;
+       }
+       form{
+        margin: 10px;
+        width: 366px;
+        box-shadow: none;
+       }
+       #formbuttons{
+        box-shadow: none;
+       }
+       .fright img{
+        margin-left: -42px;
+       }
+       .fright{
+        width: 100%;
+       }
+       .one{
+        display: none;
+       }
+       .two{
+        padding: 0px;
+        width: 100%;
+       }
+       footer{
+        flex-direction: column;
+        height: 531px;
+
+       }
+       .two span{
+        font-size: 57px;
+    font-family: 'Satisfy', cursive;
+    padding: 30px;
+
+       }
+       .icons{
+        margin-top: 16px;
+        font-size: 30px;
+        width: 265px;
+        padding: 39px;
+        height: 126px;
+        margin-left: 55px;
+       }
+       .skill{
+        height: 289px;
+        width: 191px;
+
+       }
+       .fleft{
+        width: 100%;
+        height: 611px;
+       }
+       form{
+        height: 512px;
+       }
+  }
+  /* /////////////////////////////////////////////////////////// */
+@media (min-width: 500px) and (max-width : 600px) {
+     
+    body{
+        overflow-x: hidden;
+       }
+      /* nav setting */
+    .buttonsNav{
+        display: none;
+    }
+    .navitems{
+        display: none;
+    }
+    
+    /* intro setting */
+       .lines{
+        font-size: 41px;
+        padding-left: 21px;
+       }
+       #intro-btn{
+        margin-left: 10px;
+
+       }
+       
+       .both{
+        flex-direction: column;
+       }
+       .right {
+        width: 100%;
+        height: 624px;
+    }
+    .right>img {
+        top: 29px;
+        margin-left: 0px;
+        width: 367px;
+
+    
+    }
+    .left {
+        width: 100%; 
+        padding: 24px;
+    }
+    .cards {
+       
+        flex-direction: column;
+    }
+    .card1{
+        margin: 43px;
+
+    }
+    .third{
+            height: 4519px;
+
+        top: 1604px;
+
+    }
+       .forth{
+        flex-direction: column;
+        height: 980px;
+        margin-top: 0px;
+
+       }
+       .fifth{
+        flex-direction: column;
+       }
+       form{
+        margin: 10px;
+        width: 366px;
+        box-shadow: none;
+       }
+       #formbuttons{
+        box-shadow: none;
+       }
+       .fright img{
+        margin-left: -42px;
+       }
+       .fright{
+        width: 100%;
+       }
+       .one{
+        display: none;
+       }
+       .two{
+        padding: 0px;
+        width: 100%;
+       }
+       footer{
+        flex-direction: column;
+        height: 531px;
+
+       }
+       .two span{
+        font-size: 57px;
+    font-family: 'Satisfy', cursive;
+    padding: 30px;
+
+       }
+       .icons{
+        margin-top: 16px;
+        font-size: 30px;
+        width: 265px;
+        padding: 39px;
+        height: 126px;
+        margin-left: 55px;
+       }
+       .skill{
+        height: 289px;
+        width: 191px;
+
+
+       }
+       .fleft{
+        width: 100%;
+        height: 611px;
+       }
+       form{
+        height: 512px;
+       }
+  }
+  /* ////////////////////////////////////////////////// */
+@media (min-width: 600px) and (max-width : 700px) {
+     
+    body{
+        overflow-x: hidden;
+       }
+      /* nav setting */
+    .buttonsNav{
+        display: none;
+    }
+    .navitems{
+        display: none;
+    }
+    
+    /* intro setting */
+       .lines{
+        font-size: 41px;
+        padding-left: 21px;
+       }
+       #intro-btn{
+        margin-left: 10px;
+
+       }
+       
+       .both{
+        flex-direction: column;
+       }
+       .right {
+        width: 100%;
+        height: 624px;
+    }
+    .right>img {
+        top: 29px;
+        margin-left: 0px;
+        width: 367px;
+
+    
+    }
+    .left {
+        width: 100%; 
+        padding: 24px;
+    }
+    .cards {
+       
+        flex-direction: column;
+    }
+    .card1{
+        margin: 43px;
+
+    }
+    .third{
+            height: 4519px;
+
+  top: 1604px;
+
+
+    }
+       .forth{
+        flex-direction: column;
+        height: 980px;
+        margin-top: 0px;
+
+       }
+       .fifth{
+        flex-direction: column;
+       }
+       form{
+        margin: 10px;
+        width: 366px;
+        box-shadow: none;
+       }
+       #formbuttons{
+        box-shadow: none;
+       }
+       .fright img{
+        margin-left: -42px;
+       }
+       .fright{
+        width: 100%;
+       }
+       .one{
+        display: none;
+       }
+       .two{
+        padding: 0px;
+        width: 100%;
+       }
+       footer{
+        flex-direction: column;
+        height: 531px;
+
+       }
+       .two span{
+        font-size: 57px;
+    font-family: 'Satisfy', cursive;
+    padding: 30px;
+
+       }
+       .icons{
+        margin-top: 16px;
+        font-size: 30px;
+        width: 265px;
+        padding: 39px;
+        height: 126px;
+        margin-left: 55px;
+       }
+       .fleft{
+        width: 100%;
+        height: 611px;
+       }
+       form{
+        height: 512px;
+       }
+  }
