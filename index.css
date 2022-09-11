@@ -3,6 +3,13 @@
   padding: 0px;
   box-sizing: border-box;
 }
+body{
+  overflow-x: hidden ;
+  height: 6473px;
+  height: 3547px;
+
+
+}
 ::selection {
   background-color: #87b5fe;
   color: black;
@@ -78,7 +85,12 @@
   transform: scaleX(1);
   transform-origin: bottom left;
 }
-
+.responsive{
+  display: none;
+}
+.mblnav{
+  display: none;
+}
 .buttonsNav {
   margin-right: 127px;
   margin-top: 11px;
@@ -159,7 +171,6 @@
   color: #b3cbff;
   padding: 2px;
   padding-left: 110px;
-  font-family: 'Satisfy', cursive;
 
 }
 #intro1{
@@ -226,7 +237,6 @@
   color: #008bff;
   font-family: sans-serif;
   margin-bottom: 30px;
-  font-family: 'Satisfy', cursive;
 
 
 }
@@ -304,7 +314,6 @@
   justify-content: center;
   align-items: center;
   color: white;
-  font-family: 'Satisfy', cursive;
 
 }
 .cardpara{
@@ -410,7 +419,6 @@ svg{
     margin-top: 24px;
     color:white;
     font-size: 22px;
-    font-family: 'Satisfy', cursive;
 
 }
 
@@ -497,7 +505,6 @@ form h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  font-family: 'Satisfy', cursive;
 
 }
 
@@ -594,7 +601,6 @@ footer{
 }
 .two span{
   font-size: 52px;
-  font-family: 'Satisfy', cursive;
 
 
 }

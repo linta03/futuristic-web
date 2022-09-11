@@ -37,3 +37,42 @@ setInterval(()=>{
 }
 
 hy();
+
+
+// responsive navbar 
+// const navSlide =()=>{
+//     const burger = document.getElementById("burger");
+//     const nav = document.querySelector(".navitems");
+//     const cross = document.getElementById("cross")
+
+//     burger.addEventListener('click',()=>{
+//            nav.classList.toggle('nav-active');
+//            burger.style.display="none"
+//            cross.style.display="flex"
+//     })
+//     cross.addEventListener("click",()=>{
+//         nav.style.transform="translate(100%)"
+//         burger.style.display="flex"
+//         cross.style.display="none"
+
+
+//     })
+// }
+// navSlide()
+const burger = document.getElementById("burger");
+const nav = document.querySelector(".navitems");
+const cross = document.getElementById("cross")
+const btn = document.querySelector(".buttonNav")
+
+function navshow(){
+    nav.style.transform="translate(0%)"
+    burger.style.display="none";
+    cross.style.display="flex"
+  
+}
+function navhide(){
+    nav.style.transform="translate(100%)"
+    burger.style.display="flex";
+    cross.style.display="none"
+}
+
